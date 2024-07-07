@@ -20,8 +20,6 @@ Optimized Performance: High efficiency and smooth operation, even with large dat
 User-Centric Design: Intuitive, user-friendly interface for effortless navigation and interaction.
 Real-Time Analytics: Real-time data updates for up-to-date information and decision-making.
 
-Ensure your data sources are properly configured.
-
 Usage
 Configure Data Sources:
 Set up your data connections within Power BI Desktop.
