@@ -19,16 +19,7 @@ Advanced Visualizations: Dynamic and interactive charts and graphs to effectivel
 Optimized Performance: High efficiency and smooth operation, even with large datasets.
 User-Centric Design: Intuitive, user-friendly interface for effortless navigation and interaction.
 Real-Time Analytics: Real-time data updates for up-to-date information and decision-making.
-Installation
-Clone the Repository:
 
-sh
-Copy code
-git clone https://github.com/your-username/power-bi-dashboard-project.git
-Download the Power BI Dashboard file:
-Power BI Dashboard Project.pbix
-
-Open the file in Power BI Desktop:
 Ensure your data sources are properly configured.
 
 Usage
